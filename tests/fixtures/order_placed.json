@@ -1,0 +1,12 @@
+{
+  "event": "order_placed",
+  "order_id": 1024,
+  "order_number": "ORD-982341",
+  "user_id": 42,
+  "invoice_id": 5081,
+  "payment_method": "stripe",
+  "amount": 149.00,
+  "products": ["Business Cloud Hosting", "SSL Certificate"],
+  "domains": ["example-domain.com"],
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

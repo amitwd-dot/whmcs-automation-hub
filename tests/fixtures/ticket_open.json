@@ -1,0 +1,12 @@
+{
+  "event": "ticket_open",
+  "ticket_id": 7819,
+  "ticket_mask": "ABC-102938",
+  "user_id": 120,
+  "department_id": 1,
+  "dept_name": "Technical Support",
+  "subject": "Urgent: Unable to access cPanel control panel",
+  "message": "Hello team, I am receiving a 500 internal server error when navigating to cPanel.",
+  "priority": "High",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

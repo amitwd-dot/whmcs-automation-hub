@@ -1,0 +1,7 @@
+{
+  "event": "service_unsuspended",
+  "service_id": 342,
+  "user_id": 55,
+  "domain": "client-domain.net",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

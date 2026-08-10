@@ -1,0 +1,8 @@
+{
+  "event": "service_suspended",
+  "service_id": 342,
+  "user_id": 55,
+  "domain": "client-domain.net",
+  "reason": "Overdue invoice #10492",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

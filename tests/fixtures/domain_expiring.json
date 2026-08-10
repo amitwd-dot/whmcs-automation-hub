@@ -1,0 +1,26 @@
+{
+  "event": "domain_expiring",
+  "expiring_count": 2,
+  "domains": [
+    {
+      "domain_id": 402,
+      "user_id": 88,
+      "domain_name": "client-portal-example.com",
+      "expiry_date": "2026-08-23",
+      "days_left": 14,
+      "registrar": "enom",
+      "recurring": 14.99
+    },
+    {
+      "domain_id": 519,
+      "user_id": 104,
+      "domain_name": "innovative-tech.org",
+      "expiry_date": "2026-08-16",
+      "days_left": 7,
+      "registrar": "namecheap",
+      "recurring": 19.99
+    }
+  ],
+  "windows_checked": [30, 14, 7],
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

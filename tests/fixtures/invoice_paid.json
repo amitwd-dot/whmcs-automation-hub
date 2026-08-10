@@ -1,0 +1,9 @@
+{
+  "event": "invoice_paid",
+  "invoice_id": 10582,
+  "user_id": 88,
+  "payment_method": "paypal",
+  "amount": 299.99,
+  "date_paid": "2026-08-09T17:00:00+00:00",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

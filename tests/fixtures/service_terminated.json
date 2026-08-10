@@ -1,0 +1,7 @@
+{
+  "event": "service_terminated",
+  "service_id": 310,
+  "user_id": 19,
+  "domain": "expired-account.com",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

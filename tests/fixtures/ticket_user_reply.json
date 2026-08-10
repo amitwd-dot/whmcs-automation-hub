@@ -1,0 +1,10 @@
+{
+  "event": "ticket_user_reply",
+  "ticket_id": 7819,
+  "reply_id": 14920,
+  "user_id": 120,
+  "subject": "Re: Urgent: Unable to access cPanel control panel",
+  "message": "I checked again after clearing my DNS cache and the issue persists.",
+  "priority": "High",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}

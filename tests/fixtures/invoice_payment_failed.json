@@ -1,0 +1,8 @@
+{
+  "event": "invoice_payment_failed",
+  "invoice_id": 10594,
+  "user_id": 104,
+  "payment_method": "stripe",
+  "error_gateway": "Card Declined (Insufficent Funds)",
+  "timestamp": "2026-08-09T17:00:00+00:00"
+}
